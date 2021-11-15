@@ -128,7 +128,6 @@ body {
     margin-top:30px
 }
 
-<<<<<<< HEAD
 #info{
     margin-top: 30px;
 }
@@ -164,8 +163,6 @@ body {
     margin-top: 20px;
 }
 
-=======
->>>>>>> 2ab984e79e09cd75af00a18466f872939408666b
 @media only screen and (max-width: 1000px){
     .nav-link:hover {
         border-bottom: none!important;
